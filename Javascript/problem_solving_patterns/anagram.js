@@ -41,7 +41,6 @@ function annagrams(word1, word2) {
      }
   
     }
-    console.log(first);
     return true
   }
   

@@ -1,3 +1,7 @@
+/**
+ * Multiple pointer pattern
+ * @param {*} arr 
+ */
 function sumZero(arr) {
     let left = 0;
     let right = 0;
